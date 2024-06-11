@@ -26,5 +26,5 @@ jobs:
         
     - name: Use Skopeo Tools Sync Image to Docker Hub
       run: |
-      #   skopeo copy docker://docker.io/debian:11.9 docker://docker.io/chtsen/debian:11.9
+         skopeo copy docker://docker.io/alpine:3.18.3 docker://docker.io/chtsen/alpine:3.18.3
       # 使用 skopeo 工具将镜像同步到阿里云个人仓库中，使用时请自行源和目标修改仓库名称和镜像名称
