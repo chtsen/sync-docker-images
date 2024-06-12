@@ -1,1 +1,2 @@
 bitnami/redis:6.2.14
+debian:11.9
