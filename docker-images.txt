@@ -1,4 +1,2 @@
 bitnami/redis:6.2.14
-debian:11.9
-tomcat:9.0.89-jdk8-temurin-focal
-alpine:3.18.3
+redis:7.0.15-alpine
