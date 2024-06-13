@@ -50,5 +50,4 @@ jobs:
         
     - name: Use Skopeo Tools Sync Image to Docker Hub
       run: |
-        docker -v
         sh ./script/sysnc-images.sh
