@@ -55,13 +55,13 @@ jobs:
     #     password: ${{ secrets.DOCKER_HW_PW }}
     #     logout: false
         
-    - name: Login to YOZO Hub
-      uses: docker/login-action@v2.2.0
-      with:
-        registry: hub.yozosoft.com:4431
-        username: ${{ secrets.DOCKER_YOZO_USER }}
-        password: ${{ secrets.DOCKER_YOZO_PW }}
-        logout: false
+    # - name: Login to YOZO Hub
+    #   uses: docker/login-action@v2.2.0
+    #   with:
+    #     registry: hub.yozosoft.com:4431
+    #     username: ${{ secrets.DOCKER_YOZO_USER }}
+    #     password: ${{ secrets.DOCKER_YOZO_PW }}
+    #     logout: false
         
     - name: Use Skopeo Tools Sync Image to Docker Hub
       run: |
