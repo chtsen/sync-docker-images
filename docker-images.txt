@@ -1,2 +1,5 @@
-tonistiigi/binfmt:latest
-moby/buildkit:buildx-stable-1
+mysql:8
+redis:62
+victoriametrics/victoria-metrics:v1.79.12
+flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
