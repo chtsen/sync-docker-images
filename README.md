@@ -1,36 +1,36 @@
-# Sync Image to Docker Hub or Aliyun Example
+# 同步镜像到 Docker Hub 或阿里云示例
 
-This repository contains a GitHub Actions workflow to synchronize Docker images to Docker Hub or Aliyun Container Registry. The workflow can be triggered on pushes to the `main` branch or pull requests to the `main` branch.
+此仓库包含一个 GitHub Actions 工作流，用于将 Docker 镜像同步到 Docker Hub 或阿里云容器镜像服务。该工作流可以在推送到 `main` 分支或对 `main` 分支的拉取请求时触发。
 
-## Workflow Details
+## 工作流详情
 
-### Triggers
+### 触发器
 
-- **push**: Triggered on pushes to the `main` branch.
-- **pull_request**: Triggered on pull requests to the `main` branch.
+- **push**: 在推送到 `main` 分支时触发。
+- **pull_request**: 在对 `main` 分支的拉取请求时触发。
 
-### Jobs
+### 作业
 
-#### Build and Sync Job
+#### 构建和同步作业
 
-This job performs the following steps:
+此作业执行以下步骤：
 
-1. **Git pull**: Check out the repository to the runner.
-2. **Set up Docker Buildx**: Set up Docker Buildx for building multi-platform images.
-3. **Install updated Skopeo**: Install an updated version of Skopeo, a tool for manipulating container images and container image repositories.
-4. **Log in to Aliyun Hub**: Log in to the Aliyun Container Registry using credentials stored in GitHub Secrets.
-5. **Sync Image to Docker Hub using Skopeo**: Run a script to synchronize images using Skopeo.
+1. **Git pull**: 将仓库检出到运行器。
+2. **设置 Docker Buildx**: 设置 Docker Buildx 以构建多平台镜像。
+3. **安装更新的 Skopeo**: 安装更新版本的 Skopeo，这是一个用于操作容器镜像和容器镜像仓库的工具。
+4. **登录到阿里云容器镜像服务**: 使用存储在 GitHub Secrets 中的凭据登录到阿里云容器镜像服务。
+5. **使用 Skopeo 同步镜像到 Docker Hub**: 运行脚本使用 Skopeo 同步镜像。
 
-## How to Use
+## 如何使用
 
-### Prerequisites
+### 先决条件
 
-1. **GitHub Secrets**: Ensure that you have added the necessary secrets to your GitHub repository:
-   - `DOCKER_ALIYUN_USER`: Your Aliyun Container Registry username.
-   - `DOCKER_ALIYUN_PW`: Your Aliyun Container Registry password.
+1. **GitHub Secrets**: 确保您已将必要的秘密添加到您的 GitHub 仓库：
+   - `DOCKER_ALIYUN_USER`: 您的阿里云容器镜像服务用户名。
+   - `DOCKER_ALIYUN_PW`: 您的阿里云容器镜像服务密码。
 
-2. **Script**: Ensure that the `script/sysnc-images.sh` script is present in your repository. This script should contain the commands to synchronize images using Skopeo.
+2. **脚本**: 确保仓库中存在 `script/sysnc-images.sh` 脚本。此脚本应包含使用 Skopeo 同步镜像的命令。
 
-### Example `workflow_dispatch` Inputs
+### 示例 `workflow_dispatch` 输入
 
-The workflow does not currently use `workflow_dispatch` inputs, but you can extend it to support manual triggers and custom inputs.
+当前工作流不使用 `workflow_dispatch` 输入，但您可以扩展其以支持手动触发和自定义输入。
