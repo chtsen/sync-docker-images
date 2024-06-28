@@ -1,1 +1,1 @@
-bitnami/redis:6.2.14
+budtmo/docker-android:emulator_12.0
