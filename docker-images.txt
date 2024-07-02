@@ -1,1 +1,1 @@
-budtmo/docker-android:emulator_12.0
+remnux/ciphey:latest
