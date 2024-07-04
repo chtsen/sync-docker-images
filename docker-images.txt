@@ -1,1 +1,1 @@
-remnux/ciphey:latest
+busybox:1.36.1
