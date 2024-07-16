@@ -1,2 +1,1 @@
-apache/rocketmq:5.2.0
-apacherocketmq/rocketmq-dashboard:latest
+chtsen/rocketmq:5.1.3_uuid
