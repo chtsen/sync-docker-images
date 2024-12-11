@@ -1,1 +1,1 @@
-debian:bookworm-20241202
+ubuntu:jammy-20240911.1
