@@ -1,1 +1,1 @@
-bitnami/redis:6.2.14
+debian:bookworm-20241202
