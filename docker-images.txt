@@ -1,4 +1,5 @@
 chtsen/yozo-tomcat:9.0.98-uuid
+chtsen/yozo-tomcat:9.0.98-uuid-env
 chtsen/yozo-tomcat:9.0.98-uuid-sp
 chtsen/yozo-tomcat:9.0.98-uuid-redis
 chtsen/yozo-tomcat:9.0.98-uuid-sp-redis
