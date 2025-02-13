@@ -1,1 +1,1 @@
-jc21/nginx-proxy-manager:2.12.3
+grafana/promtail:3.4.0
