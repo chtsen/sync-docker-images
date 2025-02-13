@@ -1,1 +1,1 @@
-grafana/promtail:3.4.0
+grafana/grafana:11.5.1
