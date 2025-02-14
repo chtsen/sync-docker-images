@@ -1,1 +1,1 @@
-grafana/grafana:11.5.1
+alpine/jmeter:5.6
