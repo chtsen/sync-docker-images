@@ -1,5 +1,2 @@
-chtsen/yozo-tomcat:9.0.102-uuid
-chtsen/yozo-tomcat:9.0.102-uuid-env
-chtsen/yozo-tomcat:9.0.102-uuid-redis
-chtsen/yozo-tomcat:9.0.102-uuid-sp
-chtsen/yozo-tomcat:9.0.102-uuid-sp-redis
+
+amir20/dozzle:v8
