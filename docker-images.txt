@@ -1,2 +1,2 @@
-eipwork/etcd-host:3.4.16-2
+eipwork/etcd-host:3.4.16-2-amd64
 
