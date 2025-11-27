@@ -1,5 +1,2 @@
-chtsen/yozo-tomcat:9.0.108-4.17-uuid-sp-redis
-chtsen/yozo-tomcat:9.0.108-4.17-uuid-env
-chtsen/yozo-tomcat:9.0.108-4.17-uuid-sp
-chtsen/yozo-tomcat:9.0.108-4.17-uuid-redis
-chtsen/yozo-tomcat:9.0.108-4.17-uuid
+mariadb:latest
+mayanghua/instock:latest
