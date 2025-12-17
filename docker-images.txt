@@ -1,2 +1,1 @@
 sonarqube:2025.6.0-developer
-
