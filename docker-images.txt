@@ -1,1 +1,1 @@
-sonarqube:2025.1.0-developer
+maven:3.9.11-eclipse-temurin-17-noble
