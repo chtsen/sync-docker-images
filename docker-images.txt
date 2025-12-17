@@ -1,1 +1,1 @@
-sonarqube:2025.6.0-developer
+sonarqube:2025.1.0-developer
