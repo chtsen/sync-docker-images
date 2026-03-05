@@ -1,5 +1,5 @@
-chtsen/yozo-tomcat:10.1.50-4.19-uuid-sp-redis
-chtsen/yozo-tomcat:10.1.50-4.19-uuid-env
-chtsen/yozo-tomcat:10.1.50-4.19-uuid-sp
-chtsen/yozo-tomcat:10.1.50-4.19-uuid-redis
-chtsen/yozo-tomcat:10.1.50-4.19-uuid
+chtsen/yozo-tomcat:9.0.115-4.17-uuid-sp-redis
+chtsen/yozo-tomcat:9.0.115-4.17-uuid-env
+chtsen/yozo-tomcat:9.0.115-4.17-uuid-sp
+chtsen/yozo-tomcat:9.0.115-4.17-uuid-redis
+chtsen/yozo-tomcat:9.0.115-4.17-uuid
