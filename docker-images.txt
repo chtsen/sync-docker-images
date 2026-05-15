@@ -1,1 +1,1 @@
-aquasec/harbor-scanner-trivy:0.31.3
+goharbor/trivy-adapter-photon:v2.14.4
