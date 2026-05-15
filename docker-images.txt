@@ -1,1 +1,1 @@
-goharbor/trivy-adapter-photon:v2.14.4
+aquasec/trivy-db:2
