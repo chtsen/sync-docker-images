@@ -1,5 +1,1 @@
-chtsen/yozo-tomcat:9.0.115-4.17-uuid-sp-redis
-chtsen/yozo-tomcat:9.0.115-4.17-uuid-env
-chtsen/yozo-tomcat:9.0.115-4.17-uuid-sp
-chtsen/yozo-tomcat:9.0.115-4.17-uuid-redis
-chtsen/yozo-tomcat:9.0.115-4.17-uuid
+aquasec/trivy:0.70.0
