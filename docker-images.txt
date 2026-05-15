@@ -1,1 +1,2 @@
 aquasec/trivy:0.70.0
+aquasec/harbor-scanner-trivy:v0.30.0
