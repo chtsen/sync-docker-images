@@ -1,5 +1,5 @@
-chtsen/yozo-jdk:jdk17-4.20-260819-uuid-sp-redis
-chtsen/yozo-jdk:jdk17-4.20-260819-uuid
-chtsen/yozo-jdk:jdk17-4.20-260819-uuid-sp
-chtsen/yozo-jdk:jdk17-4.20-260819-uuid-redis
-chtsen/yozo-jdk:jdk17-4.20-260819-uuid-env
+chtsen/yozo-tomcat:10.1.57-4.19-uuid-sp-redis
+chtsen/yozo-tomcat:10.1.57-4.19-uuid-sp
+chtsen/yozo-tomcat:10.1.57-4.19-uuid-redis
+chtsen/yozo-tomcat:10.1.57-4.19-uuid
+chtsen/yozo-tomcat:10.1.57-4.19-uuid-env
