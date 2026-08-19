@@ -1,5 +1,5 @@
-chtsen/yozo-jdk:jdk17-4.20-260818-uuid-sp-redis
-chtsen/yozo-jdk:jdk17-4.20-260818-uuid
-chtsen/yozo-jdk:jdk17-4.20-260818-uuid-sp
-chtsen/yozo-jdk:jdk17-4.20-260818-uuid-redis
-chtsen/yozo-jdk:jdk17-4.20-260818-uuid-env
+chtsen/yozo-jdk:jdk17-4.20-260819-uuid-sp-redis
+chtsen/yozo-jdk:jdk17-4.20-260819-uuid
+chtsen/yozo-jdk:jdk17-4.20-260819-uuid-sp
+chtsen/yozo-jdk:jdk17-4.20-260819-uuid-redis
+chtsen/yozo-jdk:jdk17-4.20-260819-uuid-env
