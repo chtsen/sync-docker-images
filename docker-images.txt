@@ -1,2 +1,1 @@
-gitlab/gitlab-ce:18.11.12-ce.0
-gitlab/gitlab-ce:17.11.7-ce.0
+gitlab/gitlab-ce:16.0.10-ce.0
