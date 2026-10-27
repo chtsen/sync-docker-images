@@ -1,1 +1,5 @@
-gitlab/gitlab-ce:16.11.10-ce.0
+chtsen/yozo-jdk:jdk17-4.20-261027-uuid-sp-redis
+chtsen/yozo-jdk:jdk17-4.20-261027-uuid
+chtsen/yozo-jdk:jdk17-4.20-261027-uuid-sp
+chtsen/yozo-jdk:jdk17-4.20-261027-uuid-redis
+chtsen/yozo-jdk:jdk17-4.20-261027-uuid-env
