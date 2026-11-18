@@ -1,1 +1,5 @@
-amir20/dozzle:pr-5533
+chtsen/yozo-jdk:jdk17-4.20-261118-uuid-sp-redis
+chtsen/yozo-jdk:jdk17-4.20-261118-uuid
+chtsen/yozo-jdk:jdk17-4.20-261118-uuid-sp
+chtsen/yozo-jdk:jdk17-4.20-261118-uuid-redis
+chtsen/yozo-jdk:jdk17-4.20-261118-uuid-env
